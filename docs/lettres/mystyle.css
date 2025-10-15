@@ -1,5 +1,7 @@
 body {
   background-color: lightblue;
+  margin-left: 80;
+  margin-right: 50;
 }
 
 h1 {
@@ -8,5 +10,20 @@ h1 {
 }
 
 a {
-    color: rgb(177, 44, 86);
+    color: rgb(55, 31, 153);
+}
+
+
+.title {
+    font-size: large;
+    font-style: oblique;
+    font-weight: 1,5;
+}
+
+.person {
+    color: rgb(212, 71, 71);
+}
+
+.organisation {
+    color: coral    ;
 }
