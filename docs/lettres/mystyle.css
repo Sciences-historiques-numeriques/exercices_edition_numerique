@@ -1,7 +1,13 @@
+
+a {
+    color: rgb(55, 31, 153);
+}
+
+
 body {
   background-color: lightblue;
-  margin-left: 80;
-  margin-right: 50;
+  box-sizing: content-box;  
+  padding: 50px; 
 }
 
 h1 {
@@ -9,8 +15,8 @@ h1 {
   margin-left: 20px;
 }
 
-a {
-    color: rgb(55, 31, 153);
+p {
+    padding-top: 1%;
 }
 
 
@@ -25,5 +31,5 @@ a {
 }
 
 .organisation {
-    color: coral    ;
+    color: rgb(135, 41, 186)    ;
 }
