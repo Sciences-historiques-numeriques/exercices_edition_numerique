@@ -20,16 +20,22 @@ p {
 }
 
 
-.title {
-    font-size: large;
-    font-style: oblique;
-    font-weight: 1,5;
+.organisation {
+    color: rgb(135, 41, 186)    ;
 }
+
+
+.home_index {
+    padding-top: 1%;
+    font-size: smaller;
+} 
 
 .person {
     color: rgb(212, 71, 71);
 }
 
-.organisation {
-    color: rgb(135, 41, 186)    ;
+.title {
+    font-size: large;
+    font-style: oblique;
+    font-weight: 1,5;
 }
