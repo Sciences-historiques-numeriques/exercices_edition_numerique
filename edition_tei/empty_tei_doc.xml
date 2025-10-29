@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/tei_lite/document.xsd" type="application/xml" 
+    schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="working.css" type="text/css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

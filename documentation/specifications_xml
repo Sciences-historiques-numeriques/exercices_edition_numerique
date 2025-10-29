@@ -1,0 +1,30 @@
+
+
+
+## Associating Schemas with XML documents 1.0 : xml-model
+
+https://www.w3.org/TR/xml-model/
+
+
+C Suggested use of schematypens for determining schema language (Non-Normative)
+
+Use of a combination of schematypens and type allows for the identification of many widely used schema languages as shown in the following table.
+Schema language	type	schematypens
+DTD	application/xml-dtd	unspecified*
+W3C XML Schema	unspecified* or application/xml	http://www.w3.org/2001/XMLSchema
+RELAX NG	unspecified* or application/xml	http://relaxng.org/ns/structure/1.0
+RELAX NG – compact syntax	application/relax-ng-compact-syntax	unspecified*
+Schematron	unspecified* or application/xml	http://purl.oclc.org/dsdl/schematron
+NVDL	unspecified* or application/xml	http://purl.oclc.org/dsdl/nvdl/ns/structure/1.0
+* A value of “unspecified” above indicates that the corresponding pseudo-attribute is not specified on the xml-model processing instruction.
+
+Example: Multiple schemas associated
+
+
+    <?xml version="1.0"?>
+    <?xml-model href="http://www.docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="http://www.docbook.org/xml/5.0/xsd/docbook.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+    <book xmlns="http://docbook.org/ns/docbook">
+     …
+    </book>
+    

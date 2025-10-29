@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/tei_lite/document.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="working.css" type="text/css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+
+                <p> J’ai été positivement malade et très malade hier. J’avais à peine fermé ma
+                    lettre que j’ai été saisie de violentes douleurs, accompagnées de fièvre et
+                    d’une prostration de forces telle que j’avais peine à parler. J’ai envoyé
+                    chercher <name>Marion</name> d’abord et puis le médecin. Marion est venue. Le Médecin était
+                    introuvable, mais au bout de quatre heures il est venu. Il proclame la bile ; il
+                    a peut être raison. Je me susi couchée, j’ai dormi, vers neuf je me suis levée,
+                    et me sentant mieux j’ai ouvert ma porte. Mad. de Contades, les d’Arenberg, Mad.
+                    de Soltykoff, Lady Granville, Pahlen, Médem, le duc de Noailles, Escham. Lady
+                    Granville venait d’apprendre au grand dîner Rothschild que j’étais malade, elle
+                    accourait pour me soigner ; elle fut un peu étonnée de me trouver gaiement
+                    entourée.
+                </p>
+                <p> 
+                    Je suis un peu mieux ce matin, mais il me faudra beaucoup de Vérity.
+                    Les Ministres ont beaucoup repris courage. Ils se tiennent assurés que M. Molé
+                    ne peut pas faire de Ministère. Dès lors ils n’ont rien à craindre, car les 221
+                    eux-mêmes ne voudront pas les renverser pour retomber dans une crise. Voici du
+                    soleil, mais il me parait si triste depuis votre départ. 
+                </p>
+                <p>J’ai eu hier la
+                    nouvelle de la mort de la Princesse Jean de Lieven. Il n’y a plus de dame Lieven
+                    au monde que moi. On dit que c’était une femme d’un très grand mérite. Je ne la
+                    connaissais pas. Vous savez pourquoi son mari m’intéresse. C’est qu’ils reposent
+                    chez lui. Mercredi 18, 9 heures J’apprends que Rothschild part aujourd’hui pour
+                    Londres ; vous le verrez. Si j’avais pu dîner chez lui avant-hier ça vous aurait
+                    plu. J’ai passé une journée sans bouger. On est venu me voir un peu le matin, un
+                    peu le soir. M. de Pogenpohl, M. Werther, les Appony, Mad. de Courval, Marion,
+                    Miraflores, les Brignoles, Arnim, Montrond. Je ne l’ai pas vu seul, il avait
+                    l’air aigre. Personne aujourd’hui ne doute que les fonds secrets seront votés ;
+                    dès lors, 
+                    <name ana="person" ref="https://dbpedia.org/resource/Adolphe_Thiers">Thiers
+                    </name> sera bien puissant et il peut aller longtemps. On rit un peu de
+                    la circulaire de M. de Rémusat où il dit que la Monarchie de Juillet est moins
+                    faible qu’on ne le croit. Midi Voici le N°324. Certainement vous avez raison de
+                    me gronder, bien raison. Vous me l’avez dit une fois, mon chagrin se traduit
+                    toujours en injustice. Quand je suis triste je vous accuse, je ne sais de quoi ;
+                    je vous cherche des torts, et vous, vous m’excusez toujours! Restez comme cela,
+                    bon, indulgent. Laissez-moi comme je suis ; regardez-y bien, avec ces yeux qui
+                    savent si bien regarder, et vous trouverez ce qu’il y a ; ce que je ne puis pas
+                    écrire ; ce que vous m’écriviez à Londres l’année 37 au bout d’une longue tirade
+                    de vers ; oui, il y a cela, il n’y a que cela, beaucoup, beaucoup plus que vous
+                    ne croyez, beaucoup plus que je n’ai jamais dit ou montré. Eh bien, m’avez-vous
+                    pardonné Lady Antrobus, ou Mrs Stanley, ou toutes les ladies du monde ? Vous me
+                    faites une description admirable des Anglais. C’est bien cela. Vous avez raison
+                    aussi pour les femmes. Point de bienveillance entre elles, et celles que j’aime
+                    le plus, toujours un petit coup de patte après l’éloge. J’ai oublié le Duc de
+                    Noailles qui est venu passer deux heures chez moi hier matin. Il y a eu réunion
+                    chez Berryer hier au soir. M. de Noailles y était appelé. Il a de grands
+                    soupçons contre Berryer. Il le croit à Thiers tout à fait. Le parti veut voter
+                    contre les fonds secrets. Berryer ne voudrait pas. Le parti veut qu’il parle, et
+                    je crois savoir qu’il a promis à Thiers de ne pas parler. Enfin la désunion est
+                    là aussi comme elle est partout. Il me semble évident, par le ton des journaux
+                    depuis hier, que les 221 ne Sont pas aussi féroces que M. Molé le proclame. Le
+                    ton de Thiers hier au soir était à la confiance et tout le monde a l’instinct de
+                    sa durée ? Ne lui restera-t-il pas beaucoup sur le cœur contre le château ? Si
+                    vous pouviez voir mon visage rayonner lorsqu’on m’annonce « Ce gros Monsieur qui
+                    vient quelques fois le matin. » Comme je cours vite dans le salon pour prendre
+                    mon butin ! Je m’établis ensuite sur la chaise verte et je lis, et je savoure,
+                    et je recommence. Ecrivez. Ecrivez. Je me sens mieux ce matin, mais j’attends
+                    Vérity pour savoir si c’est vrai. Je voudrais qu’il me permît de sortir. Je vous
+                    enverrai cette lettre tout bonnement par la poste, car j’ai envie que vous
+                    l’ayez vite. Il me semble que vous me pardonnerez celle qui vous a fâché. Ne
+                    vous fâchez jamais, je vous en prie. Ecrivez-moi beaucoup. Dites-moi tout ce que
+                    vous faites comme moi je vous dis tout. J’ai oublié que hier je n’ai pris qu’un
+                    bouillon, dans ma chambre à coucher. Il me semble que je vous dois compte de
+                    tout absolument. Faites de même. Adieu. Adieu. Je me sens en train de vous dire
+                    adieu si souvent que je pourrais vous ennuyer. Croyez-vous ? Adieu. 1 heure. Il
+                    faut que je vous redise que toutes les lettres qui viennent de Londres sont
+                    remplies d’éloges de vous. Cela m’est redit de tous côtés. 
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
