@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../editions_numeriques"
+		},
+		{
+			"name": "exercices_edition_numerique",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
