@@ -6,6 +6,10 @@
 		{
 			"name": "exercices_edition_numerique",
 			"path": "."
+		},
+		{
+			"name": "TEI_Gabay",
+			"path": "../../../digital_editions/TEI/Formations/TEI_Gabay"
 		}
 	],
 	"settings": {}
