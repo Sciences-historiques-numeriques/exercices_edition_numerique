@@ -1,1 +1,1 @@
-[{"kind":2,"language":"xpath","value":"\nlet $names := //p/name! [., string()] \nreturn map:entry('names', $names)"}]
+[{"kind":2,"language":"xpath","value":"\nlet $names := //book! [., string()] \nreturn map:entry('names', $names)"},{"kind":2,"language":"xpath","value":""}]
